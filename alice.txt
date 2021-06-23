@@ -1,5 +1,4 @@
 Hey
- What is your name?
-My Name is Yeswanth
-Where are you frm?
+What is your name?
+My Name is Yeswanth.
 
